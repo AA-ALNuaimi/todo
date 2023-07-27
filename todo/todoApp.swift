@@ -1,0 +1,17 @@
+//
+//  todoApp.swift
+//  todo
+//
+//  Created by Abdulaziz AL Nuaimi on 27/07/2023.
+//
+
+import SwiftUI
+
+@main
+struct todoApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
